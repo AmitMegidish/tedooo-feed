@@ -1,0 +1,15 @@
+.appContainer {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F6F7F7;
+    padding: 24px 160px;
+}

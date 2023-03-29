@@ -1,0 +1,32 @@
+.userAndTextContainer {
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.user {
+    height: 40px;
+    display: flex;
+    gap: 16px;
+}
+
+.userTexts {
+    display: flex;
+    flex-direction: column;
+}
+
+.shop {
+    color: var(--color-blue);
+}
+
+.time {
+    color: var(--color-light-grey);
+}
+
+.avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}

@@ -1,0 +1,11 @@
+.imagesContainer {
+    background-color: #B8C248;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.itemImage {
+    height: 517px;
+    object-fit: contain;
+}

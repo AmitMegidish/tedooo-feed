@@ -1,0 +1,16 @@
+.likesAndCommentsData {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    padding: 0 24px;
+    color: var(--color-grey);
+    font-size: 14px;
+    height: 20px;
+    width: 90%;
+}
+
+.likes {
+    display: flex;
+    gap: 8px;
+}

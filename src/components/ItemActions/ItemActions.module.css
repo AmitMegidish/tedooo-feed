@@ -1,0 +1,11 @@
+.likesAndCommentsActions {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    height: 48px;
+    width: 90%;
+    color: var(--color-dark-grey);
+    border-top: 1px solid #E9EAEA;
+    border-bottom: 1px solid #E9EAEA;
+    justify-content: space-around;
+}

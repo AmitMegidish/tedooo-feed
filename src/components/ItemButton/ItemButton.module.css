@@ -1,0 +1,25 @@
+.button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    display: flex;
+    gap: 8px;
+    justify-content: stretch;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.iconContainer {
+    height: 100%;
+    display: flex;
+}
+
+.iconContainer img {
+    align-self: center;
+    height: 24px;
+    width: 18px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
